@@ -94,8 +94,8 @@
 }
 /* container */
 .grading {
-    background-image: url(/images/watch.png),
-                      url(/images/gradient2.png);
+    background-image: url(./images/watch.png),
+                      url(./images/gradient2.png);
     background-blend-mode: multiply;                  
     height: 30vh;
     margin-top: 130px;
